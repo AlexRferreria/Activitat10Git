@@ -8,6 +8,7 @@ package activitat10git;
 public class STRINGMARAVILLOSO {
 
     public static void versionActualizada() {
+        System.out.println("Aquest print esta creat desde el github");
         System.out.println("Aquest programa mostra la paraula 'MARAVILLOSO' en un format que recordda a un moli de vent");
         System.out.println("La versió que tenim a github ha estat actualitzada i és mes actual que la que tinc en local");
     }
